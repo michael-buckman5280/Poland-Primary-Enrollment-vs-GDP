@@ -1,0 +1,14 @@
+{
+  "Year": {
+    "description": "Calander year for for Primary Enrollment and GDP",
+    "data_type": "integer"
+  },
+  "Primary_Enrollment": {
+    "description": "Number of pupils enrolled in primary education in Poland for the each year",
+    "data_type": "float"
+  },
+  "GDP": {
+    "description": "Gross Domestic Product of Poland for the each year, in US dollars",
+    "data_type": "float"
+  }
+}
